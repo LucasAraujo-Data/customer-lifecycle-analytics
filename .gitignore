@@ -1,0 +1,11 @@
+.venv/
+__pycache__/
+*.py[cod]
+output/
+*.duckdb
+*.duckdb.wal
+*.parquet
+*.xlsx
+*.zip
+.env
+.ipynb_checkpoints/

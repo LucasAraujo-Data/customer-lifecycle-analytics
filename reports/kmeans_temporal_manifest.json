@@ -1,0 +1,28 @@
+{
+  "status": "completed",
+  "snapshots": [
+    {
+      "snapshot": "2010-09-01",
+      "active_customers": 2831
+    },
+    {
+      "snapshot": "2011-03-01",
+      "active_customers": 3349
+    },
+    {
+      "snapshot": "2011-09-01",
+      "active_customers": 2772
+    }
+  ],
+  "scope": "Independent clustering fitted separately at each snapshot",
+  "interpretation": "Compare silhouette, cluster shares, and RFM medians across dates. Cluster IDs are not aligned across snapshots.",
+  "limitations": [
+    "Seed ARI measures initialization robustness within one snapshot, not temporal stability.",
+    "A fixed-model out-of-time test and customer migration analysis are not performed.",
+    "No churn labels are used."
+  ],
+  "outputs": [
+    "kmeans_temporal_diagnostics.csv",
+    "kmeans_temporal_profiles.csv"
+  ]
+}
