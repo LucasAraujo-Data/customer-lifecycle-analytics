@@ -1,0 +1,15 @@
+feature,standardized_coefficient,odds_ratio_per_1_sd,interpretation
+frequency_180d,-1.042447,0.352591,Negative association with no repurchase
+tenure_days,-0.304943,0.737165,Negative association with no repurchase
+recency_days,0.294553,1.342527,Positive association with no repurchase
+avg_interpurchase_days,0.271871,1.312418,Positive association with no repurchase
+order_count_60d,0.22339,1.250308,Positive association with no repurchase
+prior_repeat_flag,-0.179072,0.836046,Negative association with no repurchase
+historical_order_count,0.166499,1.181162,Positive association with no repurchase
+monetary_60d,-0.161139,0.851174,Negative association with no repurchase
+order_count_90d,-0.121754,0.885366,Negative association with no repurchase
+monetary_180d,0.107274,1.113239,Positive association with no repurchase
+avg_order_value_180d,-0.055158,0.946335,Negative association with no repurchase
+monetary_30d,-0.035022,0.965584,Negative association with no repurchase
+order_count_30d,-0.016208,0.983923,Negative association with no repurchase
+monetary_90d,0.015352,1.01547,Positive association with no repurchase
