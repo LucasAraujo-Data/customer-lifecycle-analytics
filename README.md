@@ -30,7 +30,7 @@ The dashboard provides an accessible presentation of the project's business insi
 
 ![Methodology](docs/images/methodology.png)
 
-The original Power BI Desktop report is available at `dashboard/Customer_Lifecycle_Analytics.pbix`, if included in the repository.
+The original Power BI Desktop report is available for download: **[Customer_Lifecycle_Analytics.pbix](dashboard/Customer_Lifecycle_Analytics.pbix)**.
 
 ## Project Objectives
 
